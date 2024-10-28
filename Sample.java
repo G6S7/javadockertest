@@ -1,7 +1,13 @@
-public class sample
+public class Sample
 {
-public static void main(string args[])
-i{
-system.out.println("Mike Reddy")
+ public static void main(String args[])
+ {
+ System.out.println("Mikereddy");
+ }
 }
-}
+
+
+
+
+
+
